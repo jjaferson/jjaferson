@@ -5,6 +5,11 @@ Skills: Go (Programming Language), Javascript & TypeScript (Programming Language
 * [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-silva-69a39752/)
 * [Blog](https://medium.com/@jaferson123)
 
+#### Projects
+
+* [Bucket Operator](https://github.com/jjaferson/bucket-operator)
+* [CYaml CLI](https://github.com/jjaferson/cyaml)
+
 ---
 
 ## Work Experience
